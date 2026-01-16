@@ -1,2 +1,2 @@
-Print("Hello World!")
-Print("Welcome to python")
+print("Hello World!")
+print("Welcome to python")
